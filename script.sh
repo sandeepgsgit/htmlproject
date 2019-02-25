@@ -1,2 +1,2 @@
 #!/bin/bash
-echo scriptexecuted > /tmp/scriptexec1
+echo scriptexecuted >> /tmp/scriptexec1
